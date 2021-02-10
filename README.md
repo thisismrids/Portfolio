@@ -1,2 +1,2 @@
 # Portfolio
-#### My personal portfolio using CSS, Java and 
+#### My personal portfolio using CSS, HTML and JavaScript!
