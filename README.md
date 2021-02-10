@@ -1,2 +1,2 @@
 # Portfolio
-#### http://bit.ly/mridulgupta
+#### My personal portfolio using CSS, Java and 
